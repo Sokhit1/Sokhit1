@@ -2,6 +2,8 @@
 
 **Lecturer in Transport Engineering · Institute of Technology of Cambodia (ITC), Phnom Penh**
 
+[Website](https://sokhit1.github.io) · [Google Scholar](https://scholar.google.com/citations?user=O5WWAx0AAAAJ) · [ResearchGate](https://www.researchgate.net/scientific-contributions/Sokhit-Plack-2335930688)
+
 I teach and research transport planning, with a focus on walkability, traffic-related air pollution, air transport, urban mobility and digital twins of transport and logistics infrastructure in Cambodia. I build practical web tools that turn engineering models and data into something planners, operators and students can use.
 
 ---
