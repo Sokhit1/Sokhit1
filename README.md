@@ -30,7 +30,7 @@ I teach and research transport planning, with a focus on air transport, urban mo
 | Project | What it is | Links |
 |---|---|---|
 | **Smart Warehouse Twin** | Live 3D digital twin of a logistics park in Phnom Penh: dock doors, cold store, trucks and alarms in real time, Khmer and English. Entry to the Cambodia Digital Awards 2026. | [Live site](https://smart-warehouse-twin.netlify.app) · [Code](https://github.com/Sokhit1/smart-warehouse-twin) |
-| **MotoService Cambodia** | Two connected apps for motorcycle repair shops and their customers: jobs, parts, invoices, bookings and Telegram alerts on Supabase. | [Code](https://github.com/Sokhit1/motoservice-cambodia) |
+| **MotoService Cambodia** | Two connected apps for motorcycle repair shops and their customers: jobs, parts, invoices, bookings and Telegram alerts on Supabase. | Private |
 | **School Safety Zone Digital Twin** | 3D model and website for safer school zones in Phnom Penh. | Private |
 | **Air Transport course** | Eight modules of lecture decks with worked examples, exercises and review quizzes. | [Materials](https://github.com/Sokhit1/PLACK-Sokhit/tree/air-transport-planning/air-transport-planning) |
 
